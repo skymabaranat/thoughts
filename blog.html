@@ -6,11 +6,12 @@ permalink: /blog/
 
 <h1>Blog Posts</h1>
 
-<ul>
+<ul class="blog-list">
   {% for post in site.posts %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a> - {{ post.date | date: "%B %d, %Y" }}
-      <p>{{ post.content | strip_html | truncatewords: 50 }}</p>
+    <li class="blog-item">
+      <a href="{{ post.url }}" class="blog-title">{{ post.title }}</a> - 
+      <span class="blog-date">{{ post.date | date: "%B %d, %Y" }}</span>
+      <p class="blog-summary">{{ post.content | strip_html | truncatewords: 50 }}</p>
     </li>
   {% endfor %}
 </ul>
