@@ -1,8 +1,1 @@
-# Thinking about thinking 
-- Foood
-- Music
-- Coding
-- etc.
-
-
-
+[Read my Blog](blog/)
