@@ -6,6 +6,12 @@ email: trevinkenneth@gmail.com
 description: >-
   Super cool thoughts of me
 
+defaults:
+  - scope:
+      path: ""
+    values:
+      permalink: /blog/
+
 collections:
   posts:
     output: true
