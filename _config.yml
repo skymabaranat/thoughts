@@ -9,19 +9,3 @@ description: >-
 collections:
   posts:
     output: true
-
-theme: jekyll-theme-minimal
-markdown: kramdown
-
-highlighter: rouge
-syntax_highlighter_opts:
-  css_class: 'highlight'
-
-plugins:
-  - jekyll-seo-tag
-
-sass:
-  style: compressed
-
-skinny_header: true
-dark_theme: true
