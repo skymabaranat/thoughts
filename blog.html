@@ -9,7 +9,7 @@ permalink: /blog/
 <ul class="blog-list">
   {% for post in site.posts %}
     <li class="blog-item">
-      <a href="{{ post.url }}" class="blog-title">{{ post.title }}</a> - 
+      <a href="{{ post.url | relative_url }}">{{ post.title }}</a> - 
       <span class="blog-date">{{ post.date | date: "%B %d, %Y" }}</span>
       <p class="blog-summary">{{ post.content | strip_html | truncatewords: 50 }}</p>
     </li>
