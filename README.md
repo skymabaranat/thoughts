@@ -1,2 +1,8 @@
-# thoughts
-skymabaranat.github.io/thoughts
+# Thinking about thinking 
+- Foood
+- Music
+- Coding
+- etc.
+
+
+
