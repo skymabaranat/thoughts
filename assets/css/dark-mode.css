@@ -1,0 +1,17 @@
+/* Default Dark Mode Styles */
+body {
+    background-color: #121212;
+    color: #ffffff;
+}
+
+a {
+    color: #bb86fc;
+}
+
+.page-header {
+    background-color: #1e1e1e;
+}
+
+.wrapper {
+    background-color: #181818;
+}
