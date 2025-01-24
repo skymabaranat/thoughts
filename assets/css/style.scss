@@ -15,3 +15,34 @@ code {
   background-color: #1e1e1e;
   color: #f0f0f0;
 }
+/* Style for the blog post title */
+.blog-title {
+    color: #3498db; /* Blue color */
+    font-weight: bold;
+    font-size: 1.2em;
+}
+
+/* Style for the blog summary */
+.blog-summary {
+    color: #2ecc71; /* Green color */
+    font-size: 1em;
+}
+
+/* Style for the date */
+.blog-date {
+    color: #f39c12; /* Orange color */
+    font-style: italic;
+}
+
+/* General blog list styling */
+.blog-list {
+    list-style-type: none;
+    padding: 0;
+}
+
+.blog-item {
+    margin-bottom: 20px;
+    border-bottom: 1px solid #ddd;
+    padding-bottom: 10px;
+}
+
