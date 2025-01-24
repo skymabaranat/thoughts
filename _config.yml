@@ -1,6 +1,6 @@
 # Site settings
 include: ["_includes"]
-
+logo: https://skymabaranat.github.io/thoughts/assets/images/giphy-2.gif
 title: Trevs drivel
 email: trevinkenneth@gmail.com
 description: >-
