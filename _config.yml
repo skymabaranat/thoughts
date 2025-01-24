@@ -1,4 +1,6 @@
 # Site settings
+include: ["_includes"]
+
 title: Trevs drivel
 email: trevinkenneth@gmail.com
 description: >-
