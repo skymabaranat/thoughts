@@ -1,5 +1,8 @@
 ## 🚀✨🌝
 
+![CAT GIF](/asset/images/giphy.gif)
+
+
 👉 [Hear me out](https://skymabaranat.github.io/thoughts/blog/)
 
 ## 🔗 Links
