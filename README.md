@@ -1,2 +1,5 @@
-
-[Read my Blog](blog/)
+---
+layout: default
+title: Trevs Drivel
+redirect_to: /blog/
+---
