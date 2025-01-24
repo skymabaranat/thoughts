@@ -6,6 +6,9 @@ email: trevinkenneth@gmail.com
 description: >-
   Super cool thoughts of me
 
+collections:
+  posts:
+    output: true
 
 theme: jekyll-theme-minimal
 markdown: kramdown
